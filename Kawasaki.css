@@ -1,0 +1,307 @@
+*{
+   margin:  0px;
+   padding: 0%;
+   font-family: delta_pro, sans-serif;
+  
+}
+body{
+   background-image: url("https://kawasaki-india.com/wp-content/uploads/2018/02/parallaxbg.jpg");
+   height: 2689px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  overflow-x: hidden;
+}
+
+.section-1{
+   position: fixed;
+   width: 100%;
+   height: 170px;
+   background-color: black;
+   padding-top: 10px;
+}
+#nav{
+   width: 516px;
+   padding-top: 15px;
+   padding-left: 250px;  
+}
+.nav-1{
+   display: flex;
+  
+}
+.nav-bar{
+   text-decoration: none;
+   color:#69bd27;
+   font-size: 15px;
+   padding-top: 15px;
+   margin-left: 20px;
+   font-weight: 700;
+}
+#ul-1{
+   display: flex;
+}
+.nav-2{
+   margin-top: 20px; 
+   width: 100%;
+   height: 3px;
+   background-color: #69bd27;
+ }
+ .nav-3{
+   margin-top: 2px; 
+   width: 100%;
+   height: 7px;
+   background-color: #69bd27;
+ }
+ .nav-4{
+   margin-top: 4px; 
+   width: 100%;
+   height: 10px;
+   background-color: #69bd27;
+ }
+ #nav-button{
+   display: flex;
+   padding-top: 10px;
+ }
+ .nav-btn{
+   margin-top: 5px;
+   margin-left: 10px;
+   background-color: black;
+   color: #fff;
+   width: 200px;
+   font-size: 15px;
+ }
+ .nav-btn:hover{
+   color: #69bd27;
+ }
+ .section-2{
+  
+  width: 100%;
+  height: 600px;
+  padding-top: 170px;
+ }
+ .section-2 img{
+width: 1470px;
+ }
+ #h1-1{
+  margin-left: 33%;
+  margin-top: 100px;
+  font-size: 50px; 
+ }
+ .line{
+   width: 80%;
+   height: 3px;
+   background-color: #fff;
+   margin-left: 10%;
+   margin-top: 30px;
+ }
+ .latest-bike{
+   display: flex;
+   margin-top: 20px;
+   margin-left: 8%;
+ }
+ .img-2{
+   padding-left: 40px;
+   height: 280px;
+   width: 26%;
+ }
+ #h1-2{
+   margin-left: 40%;
+   margin-top: 100px;
+   font-size: 50px
+ }
+ #main-div{
+   display: flex;
+   margin-top: 25px;
+   margin-left: 15%;
+ }
+ .video-1{
+   margin-left: 20px;
+   width: 300px;
+   height: 400px;
+ }
+ .h1-4{
+   position: absolute;
+   margin-top: 170px;
+   margin-left: 160px; 
+   color: #6dd71d;
+ }
+ .h1-5{
+   position: absolute;
+   margin-top: 170px;
+   margin-left: 570px; 
+   color: #6dd71d;
+ }
+ .h1-6{
+   position: absolute;
+   margin-top: 170px;
+   margin-left: 900px; 
+   color: #6dd71d;
+ }
+ .h3-4{
+   position: absolute;
+   margin-top: 200px;
+   margin-left: 140px; 
+   color: #fff;
+ }
+ .h3-5{
+   position: absolute;
+   margin-top: 200px;
+   color: #fff;
+   margin-left: 550px; 
+ }
+ .h3-6{
+   position: absolute;
+   margin-top: 200px;
+   color: #fff;
+   margin-left: 950px; 
+ }
+ .h6-5{
+   position: absolute;
+   margin-top: 220px;
+   color: #fff;
+   margin-left: 570px; 
+ }
+ .h6-4{
+   position: absolute;
+   margin-top: 220px;
+   color: #fff;
+   margin-left: 160px; 
+ }
+ .h6-6{
+   position: absolute;
+   margin-top: 220px;
+   color: #fff;
+   margin-left: 970px; 
+ }
+ #hello{
+  padding-top: 0px;
+   margin-left: 20px;
+   width: 300px;
+   height: 100px;
+   background-color: rgb(40, 39, 39);  
+ }
+ .text{
+   padding-top: 30px;
+   padding-left: 30px;
+  color: #fff; 
+ }
+ .img-10{
+  position: absolute;
+  margin-left: 140px; 
+  width: 100px;
+ }
+ .btn-1{
+  width: 140px;
+  height: 50px;
+  border: none;
+  background-color: #6ac623;
+  color: #fff;
+  font-size: 20px;
+  align-items: center;
+  margin-left: 42%;
+  margin-top: 20px;
+ }
+ .section-4{
+  display: flex;
+  background-color: rgb(35, 29, 29);
+  width: 100%;
+  height: 500px;
+  margin-top: 10px;
+  padding-left: 10%;
+ }
+ .hai-1{
+  background-color:black;
+  width: 40%;
+ }
+ #h1-09{
+  color: #fff;
+  margin-left: 220px;
+  margin-top: 20px;
+ }
+ .line-1{
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  
+  margin-top: 30px;
+ }
+ .sub-div img{
+  margin-top: 10px;
+   width: 200px;
+   height: 100px;
+   margin-left: 3px;
+ }
+#s{
+  color: #000000;
+}
+#ul-4{
+  display: flex;
+}
+#h1-100{
+  font-size: 20px;
+  color: #fff;
+  margin-top: 20px;
+  margin-left: 5px;
+  font-weight: 100;
+}
+.hai-2{
+  margin-left: 70px;
+  width: 40%;
+  background-color: rgb(35, 29, 29);
+}
+#ul-3{
+  display: flex;
+}
+#img-10{
+  height: 150px;
+}
+.h3-7{
+  font-size: 10px;
+  color: rgb(194, 194, 194);
+  font-weight: 100;
+}
+.sub-div-1{
+
+  margin-top: 10px;
+   width: 100px;
+   height: 200px;
+   margin-left: 3px;
+}
+.btn-10{
+  width: 140px;
+  height: 50px;
+  border: none;
+  background-color: #6ac623;
+  color: #fff;
+  font-size: 20px;
+  align-items: center;
+  margin-left: 42%;
+  margin-top: 28px;
+}
+.footer{
+  background-color: black;
+  margin-top: 60px;
+  height: 100px;
+ 
+}
+.footer-li{
+  font-size: 15px;
+  color: #fff;
+  margin-top: 40px;
+  margin-left: 20px; 
+}
+.footer-2{
+  margin-top: 30px;
+  margin-left: 170px;
+}
+.footer-3{
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.footer-4{
+  margin-top: 30px;
+ margin-left: 170px;
+}
+.footer-img{
+  width: 40px;
+  margin-top: 6px;
+}
